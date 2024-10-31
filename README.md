@@ -1,6 +1,6 @@
-# tree
+# nsd5
 
-Prototype database for efficiently storing DNS data.
+Prototype implementation for efficiently storing and serving DNS data.
 
 A minimal [prototype](https://github.com/NLnetLabs/nsd/tree/nametree) based
 on [The Adaptive Radix Tree (ART)](https://db.in.tum.de/~leis/papers/ART.pdf)
